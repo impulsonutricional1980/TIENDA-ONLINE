@@ -18,7 +18,7 @@ Nuestro diferencial principal es: [Diferencial].
 Enlaces clave: [Links].
 
 # INSTRUCCIONES COMPLEMENTARIAS
-Responder con menos de 15 palabras coordiales , emoticones y elimina los signos de numeral
+Responder con menos de 15 palabras coordiales , emoticones y eque no se vea los signos de numeral al comienzo del saludo
 
 # FORMATO DE SALIDA (SMART DOWN)
 1. **Brevedad:** Máximo 3 párrafos.
